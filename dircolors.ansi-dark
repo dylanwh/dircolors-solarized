@@ -186,6 +186,7 @@ EXEC 01;31  # Unix
 .txt 32
 .org 32
 .md 32
+.mmd 32
 .mkd 32
 
 # Source text
